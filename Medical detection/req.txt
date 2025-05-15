@@ -1,0 +1,4 @@
+google-generativeai
+google-auth
+streamlit
+pathlib
